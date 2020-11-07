@@ -1,0 +1,1 @@
+{"jobID":"77c09fbb-93cf-a90e-03bb-9de03f21f5c8","spec":{"type":"policy","cause":{"Message":"","User":"allen devon \u003cea_ehd021279IT2@yahoo.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
