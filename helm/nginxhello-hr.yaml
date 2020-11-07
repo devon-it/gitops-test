@@ -7,7 +7,8 @@ metadata:
     fluxcd.io/ignore: "false"
 spec:
   chart:
-    git: ssh://git@github.com/devon-it/gitops-test.git
+    #git: ssh://git@github.com/devon-it/gitops-test.git
+    git: https://github.com/devon-it/gitops-test.git
     path: helm/chart
     ref: main
   rollback:
