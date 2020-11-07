@@ -5,9 +5,9 @@ metadata:
   labels:
     app: nginxhello
   name: nginxhello
-  annotations:
-    fluxcd.io/ignore: "true"
-    fluxcd.io/automated: "false"
+  #annotations:
+  #  fluxcd.io/ignore: "true"
+  #  fluxcd.io/automated: "false"
 spec:
   replicas: 5
   selector:
